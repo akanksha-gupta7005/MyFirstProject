@@ -9,7 +9,7 @@ public class conn {
 
 //    private static final String url = "jdbc:mysql://127.0.0.1:3306/bankmanagementsystem";
 //    private static final String username = "root";
-//    private static final String password = "Gupt@9akanksha";
+//    private static final String password = "Gupt9akanksha";
 
     public conn() {
 
