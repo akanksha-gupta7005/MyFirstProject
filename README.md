@@ -23,26 +23,5 @@ IDE: IntelliJ IDEA / Eclipse
 JDBC: For database connectivity
 
 
-📂 Project Structure
-Bank-Management-System/
-│
-├── src/
-│   ├── main/
-│   │   ├── Login.java
-│   │   ├── Register.java
-│   │   ├── Dashboard.java
-│   │   ├── Deposit.java
-│   │   ├── Withdraw.java
-│   │   ├── Balance.java
-│   │   └── TransactionHistory.java
-│   │
-│   └── db/
-│       └── DBConnection.java
-│
-├── database/
-│   └── bank.sql
-│
-├── assets/
-│   └── images/icons
-│
-└── README.md
+
+
